@@ -1,19 +1,19 @@
 html,body {
 height:100%;
-background:white;
+background:red;
 }
 header {
 display:block;
-background:#d7e0e9;
+background:#02ac66;
 padding:10px 0px;
 }
 section {
-width: 79%;
+width: 67%;
 float: left;
 overflow: auto;
 padding-bottom: 60px;
 padding-top:30px;
-color: black;
+color: blue;
 }
 footer {
 position: relative;
@@ -23,5 +23,5 @@ padding:5px 0px;
 clear: both;
 background: #d7e0e9;
 text-align: center;
-color: black;
+color: blue;
 }
